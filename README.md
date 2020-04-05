@@ -5,15 +5,7 @@ Website Portofolio untuk keperluan di melamar
 <head>
 	<title>Jean Purba</title>
 </head>
-<style>
-	body{
-		background-image: url('Theme-1.jpg');
-		color: white;
-		font-size: 18pt;
-		text-align: justify;
-		padding: 20px;
-	}
-</style>
+
 <body>
 
 <h1 style="text-align: center;">Website Portofolio</h1>	
