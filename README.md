@@ -3,22 +3,13 @@ Website Portofolio untuk keperluan di melamar
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Jean Purba</title>
+	
 </head>
-<style>
-	body{
-		background-image: url('Theme-1.jpg');
-		color: white;
-		font-size: 18pt;
-		text-align: justify;
-		padding: 20px;
-	}
-</style>
+
 <body>
 
 <h1 style="text-align: center;">Website Portofolio</h1>	
 <h4 style="text-align: center;">By : Jeanette Purba</h4>
-
 
 <p style="font-family: Rockwell">Dunia dimasa kini sudah memasuki era 4.O dan sebentar lagi kita akan menuju ke 5.O. Teknologi berkembang begitu pesat. Semua alat yang biasa kita kerjakan dengan manual, sekarang sudah memiliki alat yang bahkan lebih cepat menyelesaikan dibandingkan dengan kita yang mengerjakan. Sehingga, memberikan pengaruh yang sangat besar kepada orang-orang yang memang sangat membutuhkan pekerjaan. Dengan adanya kondisi yang seperti ini, menuntut sebagian besar orang untuk mempelajari sistem yang bekerja pada teknologi tersebut. Pada akhirnya kitalah yang menjadi pengendali dari sistem tersebut. Jika ada kerusakan, maka tenaga kita sangat dibutuhkan bagi suatu pabrik atau restoran yang memakai tenaga mesin tersebut.  <br>Jadi semakin banyak perkembangan, maka dari itu menjadi pembelajaran bagi kita untuk terus mencari cara-cara lain agar tenaga  kita tetap dibutuhkan, walaupun dengan keberadaan teknologi tersebut. Intinya, dizaman ini ini kita bisa memenuhi kehidupan kita dengan mencari peluang apa yang sedang dibutuhkan dengan teknologi yang terus berkembang.</p>
 
